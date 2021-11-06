@@ -8,9 +8,11 @@ You can see different parts of the project here:
 Node-red Server            |Thinger
 :-------------------------:|:-------------------------:
 ![WebPage image](https://github.com/Armiin-h/Smart-Stadium/blob/main/Pics/Node-red%20Server.png)  |  ![WebPage image](https://github.com/Armiin-h/Smart-Stadium/blob/main/Pics/Thinger.png)
+
 Node-red Dashboard         |Node-red Dashboard 
 :-------------------------:|:-------------------------:
 ![WebPage image](https://github.com/Armiin-h/Smart-Stadium/blob/main/Pics/Node-red%20Dash.png)  |  ![WebPage image](https://github.com/Armiin-h/Smart-Stadium/blob/main/Pics/Node-red%20Dash%201.png)
+
 Blynk                      |SQlite
 :-------------------------:|:-------------------------:
 ![WebPage image](https://github.com/Armiin-h/Smart-Stadium/blob/main/Pics/Blynk.jpg)  |  ![WebPage image](https://github.com/Armiin-h/Smart-Stadium/blob/main/Pics/SQlite.png)
